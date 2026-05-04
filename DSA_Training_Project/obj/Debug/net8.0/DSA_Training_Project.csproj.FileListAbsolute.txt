@@ -1,0 +1,14 @@
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/bin/Debug/net8.0/DSA_Training_Project
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/bin/Debug/net8.0/DSA_Training_Project.deps.json
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/bin/Debug/net8.0/DSA_Training_Project.runtimeconfig.json
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/bin/Debug/net8.0/DSA_Training_Project.dll
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/bin/Debug/net8.0/DSA_Training_Project.pdb
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/obj/Debug/net8.0/DSA_Training_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/obj/Debug/net8.0/DSA_Training_Project.AssemblyInfoInputs.cache
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/obj/Debug/net8.0/DSA_Training_Project.AssemblyInfo.cs
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/obj/Debug/net8.0/DSA_Training_Project.csproj.CoreCompileInputs.cache
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/obj/Debug/net8.0/DSA_Training_Project.dll
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/obj/Debug/net8.0/refint/DSA_Training_Project.dll
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/obj/Debug/net8.0/DSA_Training_Project.pdb
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/obj/Debug/net8.0/DSA_Training_Project.genruntimeconfig.cache
+/Users/tri.nm/Desktop/DSA_Training_Project/DSA_Training_Project/obj/Debug/net8.0/ref/DSA_Training_Project.dll
